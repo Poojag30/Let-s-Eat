@@ -1,0 +1,2 @@
+Let-s-Eat is a website created using pure html and css.
+
