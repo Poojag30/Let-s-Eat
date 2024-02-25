@@ -1,2 +1,27 @@
-Let-s-Eat is a website created using pure html and css.
+# Lets Eat Website
+Title : Let-s-Eat is a website created using pure html and css.
 
+## Overview
+This repository contains the source code for the "Lets Eat" website, a simple web application created with HTML and CSS.
+
+## Features
+- Responsive design: Ensures a seamless experience on devices of all sizes.
+- Modern styling: Clean and visually appealing layout using CSS for a professional look.
+- Easy customization: Update food items, descriptions, and images easily in the HTML files.
+
+## Usage
+1. Clone the repository to your local machine:
+   ```bash
+   git clone https://github.com/your-username/lets-eat-website.git
+   ```
+2. Open the project in your code editor.
+3. Customize the content in the HTML files.
+4. Preview changes in a web browser.
+5. Deploy the website to your hosting platform of choice.
+
+## Contributing
+Contributions are welcome! If you find a bug or have an enhancement in mind, feel free to open an issue or create a pull request.
+
+---
+
+Feel free to adjust the sections and details as needed for your specific project.
